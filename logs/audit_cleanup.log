@@ -1,0 +1,235 @@
+2025-08-24 12:36:04,354 - INFO - Starting comprehensive audit and cleanup
+2025-08-24 12:36:04,354 - INFO - === STEP 1: Dataset Validation ===
+2025-08-24 12:36:04,437 - INFO - Found 2000 valid entries, 0 issues
+2025-08-24 12:36:04,542 - INFO - Fixed and saved 2000 entries
+2025-08-24 12:36:04,542 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-24 12:36:04,669 - INFO - train: 1600 examples
+2025-08-24 12:36:04,670 - INFO - val: 200 examples
+2025-08-24 12:36:04,670 - INFO - test: 200 examples
+2025-08-24 12:36:04,670 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-24 12:36:04,933 - INFO - Archived 919 files
+2025-08-24 12:36:04,933 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-24 12:36:05,279 - INFO - Cleaned 1 unnecessary files
+2025-08-24 12:36:05,280 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-24 12:36:05,370 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:08:39,873 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:08:39,873 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:08:39,878 - INFO - Found 300 valid entries, 0 issues
+2025-08-25 10:08:39,885 - INFO - Fixed and saved 300 entries
+2025-08-25 10:08:39,885 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:08:39,897 - INFO - train: 240 examples
+2025-08-25 10:08:39,897 - INFO - val: 30 examples
+2025-08-25 10:08:39,897 - INFO - test: 30 examples
+2025-08-25 10:08:39,897 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:08:39,901 - INFO - Archived 0 files
+2025-08-25 10:08:39,901 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:08:40,985 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:08:40,985 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:08:40,990 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:09:12,654 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:09:12,654 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:09:12,656 - INFO - Found 79 valid entries, 0 issues
+2025-08-25 10:09:12,658 - INFO - Fixed and saved 79 entries
+2025-08-25 10:09:12,658 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:09:12,666 - INFO - train: 63 examples
+2025-08-25 10:09:12,666 - INFO - val: 8 examples
+2025-08-25 10:09:12,666 - INFO - test: 8 examples
+2025-08-25 10:09:12,666 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:09:12,669 - INFO - Archived 0 files
+2025-08-25 10:09:12,669 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:09:13,835 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:09:13,835 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:09:13,840 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:09:14,668 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:09:14,668 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:09:14,670 - INFO - Found 22 valid entries, 0 issues
+2025-08-25 10:09:14,671 - INFO - Fixed and saved 22 entries
+2025-08-25 10:09:14,671 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:09:14,681 - INFO - train: 17 examples
+2025-08-25 10:09:14,681 - INFO - val: 2 examples
+2025-08-25 10:09:14,682 - INFO - test: 3 examples
+2025-08-25 10:09:14,682 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:09:14,685 - INFO - Archived 0 files
+2025-08-25 10:09:14,685 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:09:15,809 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:09:15,809 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:09:15,811 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:09:16,854 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:09:16,855 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:09:16,856 - INFO - Found 6 valid entries, 0 issues
+2025-08-25 10:09:16,857 - INFO - Fixed and saved 6 entries
+2025-08-25 10:09:16,857 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:09:16,864 - INFO - train: 4 examples
+2025-08-25 10:09:16,864 - INFO - val: 1 examples
+2025-08-25 10:09:16,865 - INFO - test: 1 examples
+2025-08-25 10:09:16,865 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:09:16,868 - INFO - Archived 0 files
+2025-08-25 10:09:16,868 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:09:18,001 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:09:18,002 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:09:18,003 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:10:27,630 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:10:27,631 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:10:27,633 - INFO - Found 1 valid entries, 0 issues
+2025-08-25 10:10:27,635 - INFO - Fixed and saved 1 entries
+2025-08-25 10:10:27,635 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:10:27,644 - INFO - train: 0 examples
+2025-08-25 10:10:27,644 - INFO - val: 0 examples
+2025-08-25 10:10:27,644 - INFO - test: 1 examples
+2025-08-25 10:10:27,644 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:10:27,648 - INFO - Archived 0 files
+2025-08-25 10:10:27,651 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:10:29,052 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:10:29,055 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:10:29,055 - INFO - Found 1 valid entries, 0 issues
+2025-08-25 10:10:29,056 - INFO - Fixed and saved 1 entries
+2025-08-25 10:10:29,057 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:10:29,061 - INFO - train: 0 examples
+2025-08-25 10:10:29,061 - INFO - val: 0 examples
+2025-08-25 10:10:29,062 - INFO - test: 1 examples
+2025-08-25 10:10:29,062 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:10:29,064 - INFO - Archived 0 files
+2025-08-25 10:10:29,064 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:10:29,545 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:10:29,545 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:10:29,546 - INFO - Found 1 valid entries, 0 issues
+2025-08-25 10:10:29,547 - INFO - Fixed and saved 1 entries
+2025-08-25 10:10:29,547 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:10:29,556 - INFO - train: 0 examples
+2025-08-25 10:10:29,556 - INFO - val: 0 examples
+2025-08-25 10:10:29,556 - INFO - test: 1 examples
+2025-08-25 10:10:29,557 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:10:29,561 - INFO - Archived 0 files
+2025-08-25 10:10:29,562 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:10:31,494 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:10:31,495 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:10:31,496 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:10:31,648 - INFO - Cleaned 2 unnecessary files
+2025-08-25 10:10:31,648 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:10:31,649 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:10:54,979 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:10:54,979 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:10:54,979 - INFO - Found 1 valid entries, 0 issues
+2025-08-25 10:10:54,980 - INFO - Fixed and saved 1 entries
+2025-08-25 10:10:54,980 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:10:54,982 - INFO - train: 0 examples
+2025-08-25 10:10:54,982 - INFO - val: 0 examples
+2025-08-25 10:10:54,982 - INFO - test: 1 examples
+2025-08-25 10:10:54,982 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:10:54,983 - INFO - Archived 0 files
+2025-08-25 10:10:54,983 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:10:55,067 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:10:55,067 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:10:55,068 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:13:52,507 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:13:52,515 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:13:52,516 - INFO - Found 3 valid entries, 0 issues
+2025-08-25 10:13:52,517 - INFO - Fixed and saved 3 entries
+2025-08-25 10:13:52,517 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:13:52,522 - INFO - train: 2 examples
+2025-08-25 10:13:52,522 - INFO - val: 0 examples
+2025-08-25 10:13:52,526 - INFO - test: 1 examples
+2025-08-25 10:13:52,527 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:13:52,532 - INFO - Archived 0 files
+2025-08-25 10:13:52,532 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:13:53,764 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:13:53,764 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:13:53,765 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:15:18,406 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:15:18,407 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:15:18,407 - INFO - Found 0 valid entries, 0 issues
+2025-08-25 10:15:18,407 - INFO - Fixed and saved 0 entries
+2025-08-25 10:15:18,407 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:15:18,409 - INFO - train: 0 examples
+2025-08-25 10:15:18,409 - INFO - val: 0 examples
+2025-08-25 10:15:18,409 - INFO - test: 0 examples
+2025-08-25 10:15:18,409 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:15:18,410 - INFO - Archived 0 files
+2025-08-25 10:15:18,411 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:15:18,517 - INFO - Cleaned 1 unnecessary files
+2025-08-25 10:15:18,517 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:15:18,518 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:46:04,601 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:46:04,601 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:46:04,602 - INFO - Found 0 valid entries, 0 issues
+2025-08-25 10:46:04,604 - INFO - Fixed and saved 0 entries
+2025-08-25 10:46:04,604 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:46:04,609 - INFO - train: 0 examples
+2025-08-25 10:46:04,609 - INFO - val: 0 examples
+2025-08-25 10:46:04,610 - INFO - test: 0 examples
+2025-08-25 10:46:04,610 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:46:04,614 - INFO - Archived 0 files
+2025-08-25 10:46:04,615 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:46:06,058 - INFO - Cleaned 2 unnecessary files
+2025-08-25 10:46:06,058 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:46:06,059 - INFO - Audit and cleanup completed successfully
+2025-08-25 10:46:16,231 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 10:46:16,231 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 10:46:16,231 - INFO - Found 0 valid entries, 0 issues
+2025-08-25 10:46:16,231 - INFO - Fixed and saved 0 entries
+2025-08-25 10:46:16,231 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 10:46:16,233 - INFO - train: 0 examples
+2025-08-25 10:46:16,233 - INFO - val: 0 examples
+2025-08-25 10:46:16,233 - INFO - test: 0 examples
+2025-08-25 10:46:16,233 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 10:46:16,234 - INFO - Archived 0 files
+2025-08-25 10:46:16,234 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 10:46:16,377 - INFO - Cleaned 2 unnecessary files
+2025-08-25 10:46:16,377 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 10:46:16,378 - INFO - Audit and cleanup completed successfully
+2025-08-25 11:10:12,064 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 11:10:12,065 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 11:10:12,066 - INFO - Found 0 valid entries, 0 issues
+2025-08-25 11:10:12,066 - INFO - Fixed and saved 0 entries
+2025-08-25 11:10:12,067 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 11:10:12,072 - INFO - train: 0 examples
+2025-08-25 11:10:12,072 - INFO - val: 0 examples
+2025-08-25 11:10:12,072 - INFO - test: 0 examples
+2025-08-25 11:10:12,073 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 11:10:12,079 - INFO - Archived 0 files
+2025-08-25 11:10:12,079 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 11:10:14,412 - INFO - Cleaned 170 unnecessary files
+2025-08-25 11:10:14,412 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 11:10:14,413 - INFO - Audit and cleanup completed successfully
+2025-08-25 11:12:11,994 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 11:12:11,994 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 11:12:11,995 - INFO - Found 0 valid entries, 0 issues
+2025-08-25 11:12:11,996 - INFO - Fixed and saved 0 entries
+2025-08-25 11:12:11,996 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 11:12:12,002 - INFO - train: 0 examples
+2025-08-25 11:12:12,003 - INFO - val: 0 examples
+2025-08-25 11:12:12,003 - INFO - test: 0 examples
+2025-08-25 11:12:12,003 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 11:12:12,006 - INFO - Archived 0 files
+2025-08-25 11:12:12,007 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 11:12:14,167 - INFO - Cleaned 123 unnecessary files
+2025-08-25 11:12:14,169 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 11:12:14,170 - INFO - Audit and cleanup completed successfully
+2025-08-25 11:19:43,739 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 11:19:43,740 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 11:19:43,740 - INFO - Found 0 valid entries, 0 issues
+2025-08-25 11:19:43,740 - INFO - Fixed and saved 0 entries
+2025-08-25 11:19:43,740 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 11:19:43,742 - INFO - train: 0 examples
+2025-08-25 11:19:43,742 - INFO - val: 0 examples
+2025-08-25 11:19:43,742 - INFO - test: 0 examples
+2025-08-25 11:19:43,742 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 11:19:43,743 - INFO - Archived 0 files
+2025-08-25 11:19:43,743 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 11:19:44,148 - INFO - Cleaned 87 unnecessary files
+2025-08-25 11:19:44,150 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 11:19:44,151 - INFO - Audit and cleanup completed successfully
+2025-08-25 11:22:36,606 - INFO - Starting comprehensive audit and cleanup
+2025-08-25 11:22:36,606 - INFO - === STEP 1: Dataset Validation ===
+2025-08-25 11:22:36,607 - INFO - Found 0 valid entries, 0 issues
+2025-08-25 11:22:36,607 - INFO - Fixed and saved 0 entries
+2025-08-25 11:22:36,607 - INFO - === STEP 2: Creating Clean Splits ===
+2025-08-25 11:22:36,608 - INFO - train: 0 examples
+2025-08-25 11:22:36,609 - INFO - val: 0 examples
+2025-08-25 11:22:36,609 - INFO - test: 0 examples
+2025-08-25 11:22:36,609 - INFO - === STEP 3: Archiving Old Files ===
+2025-08-25 11:22:36,610 - INFO - Archived 0 files
+2025-08-25 11:22:36,610 - INFO - === STEP 4: Cleaning Unnecessary Files ===
+2025-08-25 11:22:37,031 - INFO - Cleaned 88 unnecessary files
+2025-08-25 11:22:37,032 - INFO - === STEP 5: Generating Validation Report ===
+2025-08-25 11:22:37,032 - INFO - Audit and cleanup completed successfully

@@ -1,0 +1,111 @@
+2025-08-25 10:08:39,528 - INFO - ============================================================
+2025-08-25 10:08:39,528 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:08:39,528 - INFO - ============================================================
+2025-08-25 10:08:39,528 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:08:39,567 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:08:39,659 - INFO - Loaded 2000 existing entries
+2025-08-25 10:08:39,670 - INFO - Current distribution - Verdicts: {'true': 1282, 'false': 718}, Languages: {'arabic': 0, 'english': 2000}
+2025-08-25 10:08:39,684 - INFO - Rebalancing completed: {'total_entries': 300, 'verdicts': {'true': 49, 'false': 251}, 'languages': {'arabic': 0, 'english': 300}, 'balance_ratio': 0.1952191235059761, 'language_balance': 0.0}
+2025-08-25 10:08:39,688 - INFO - Replaced original dataset with rebalanced version
+2025-08-25 10:08:39,689 - INFO - Rebalancing completed successfully
+2025-08-25 10:09:12,430 - INFO - ============================================================
+2025-08-25 10:09:12,431 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:09:12,431 - INFO - ============================================================
+2025-08-25 10:09:12,431 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:09:12,454 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:09:12,462 - INFO - Loaded 300 existing entries
+2025-08-25 10:09:12,466 - INFO - Current distribution - Verdicts: {'true': 232, 'false': 68}, Languages: {'arabic': 0, 'english': 300}
+2025-08-25 10:09:12,470 - INFO - Rebalancing completed: {'total_entries': 79, 'verdicts': {'true': 8, 'false': 71}, 'languages': {'arabic': 0, 'english': 79}, 'balance_ratio': 0.11267605633802817, 'language_balance': 0.0}
+2025-08-25 10:09:12,471 - INFO - Replaced original dataset with rebalanced version
+2025-08-25 10:09:12,472 - INFO - Rebalancing completed successfully
+2025-08-25 10:09:14,476 - INFO - ============================================================
+2025-08-25 10:09:14,476 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:09:14,476 - INFO - ============================================================
+2025-08-25 10:09:14,476 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:09:14,491 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:09:14,492 - INFO - Loaded 79 existing entries
+2025-08-25 10:09:14,494 - INFO - Current distribution - Verdicts: {'true': 70, 'false': 9}, Languages: {'arabic': 0, 'english': 79}
+2025-08-25 10:09:14,495 - INFO - Rebalancing completed: {'total_entries': 22, 'verdicts': {'true': 1, 'false': 21}, 'languages': {'arabic': 0, 'english': 22}, 'balance_ratio': 0.047619047619047616, 'language_balance': 0.0}
+2025-08-25 10:09:14,496 - INFO - Replaced original dataset with rebalanced version
+2025-08-25 10:09:14,497 - INFO - Rebalancing completed successfully
+2025-08-25 10:09:16,700 - INFO - ============================================================
+2025-08-25 10:09:16,701 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:09:16,701 - INFO - ============================================================
+2025-08-25 10:09:16,701 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:09:16,716 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:09:16,718 - INFO - Loaded 22 existing entries
+2025-08-25 10:09:16,720 - INFO - Current distribution - Verdicts: {'true': 19, 'false': 3}, Languages: {'arabic': 0, 'english': 22}
+2025-08-25 10:09:16,721 - INFO - Rebalancing completed: {'total_entries': 6, 'verdicts': {'true': 0, 'false': 6}, 'languages': {'arabic': 0, 'english': 6}, 'balance_ratio': 0.0, 'language_balance': 0.0}
+2025-08-25 10:09:16,722 - INFO - Replaced original dataset with rebalanced version
+2025-08-25 10:09:16,723 - INFO - Rebalancing completed successfully
+2025-08-25 10:10:27,409 - INFO - ============================================================
+2025-08-25 10:10:27,410 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:10:27,411 - INFO - ============================================================
+2025-08-25 10:10:27,411 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:10:27,427 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:10:27,429 - INFO - Loaded 6 existing entries
+2025-08-25 10:10:27,429 - INFO - Current distribution - Verdicts: {'true': 6, 'false': 0}, Languages: {'arabic': 0, 'english': 6}
+2025-08-25 10:10:27,431 - INFO - Rebalancing completed: {'total_entries': 1, 'verdicts': {'true': 0, 'false': 1}, 'languages': {'arabic': 0, 'english': 1}, 'balance_ratio': 0.0, 'language_balance': 0.0}
+2025-08-25 10:10:27,432 - INFO - Replaced original dataset with rebalanced version
+2025-08-25 10:10:27,433 - INFO - Rebalancing completed successfully
+2025-08-25 10:10:28,567 - INFO - ============================================================
+2025-08-25 10:10:28,628 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:10:28,629 - INFO - ============================================================
+2025-08-25 10:10:28,630 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:10:28,645 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:10:28,647 - INFO - Loaded 1 existing entries
+2025-08-25 10:10:28,647 - INFO - Current distribution - Verdicts: {'true': 1, 'false': 0}, Languages: {'arabic': 0, 'english': 1}
+2025-08-25 10:10:28,970 - INFO - ============================================================
+2025-08-25 10:10:28,971 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:10:28,971 - INFO - ============================================================
+2025-08-25 10:10:29,029 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:10:29,044 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:10:29,044 - INFO - Loaded 1 existing entries
+2025-08-25 10:10:29,045 - INFO - Current distribution - Verdicts: {'true': 1, 'false': 0}, Languages: {'arabic': 0, 'english': 1}
+2025-08-25 10:10:54,913 - INFO - ============================================================
+2025-08-25 10:10:54,913 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:10:54,913 - INFO - ============================================================
+2025-08-25 10:10:54,913 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:10:54,922 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:10:54,923 - INFO - Loaded 1 existing entries
+2025-08-25 10:10:54,923 - INFO - Current distribution - Verdicts: {'true': 1, 'false': 0}, Languages: {'arabic': 0, 'english': 1}
+2025-08-25 10:13:52,252 - INFO - ============================================================
+2025-08-25 10:13:52,253 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:13:52,253 - INFO - ============================================================
+2025-08-25 10:13:52,254 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:13:52,273 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:13:52,274 - INFO - Loaded 4 existing entries
+2025-08-25 10:13:52,314 - INFO - Current distribution - Verdicts: {'true': 3, 'false': 1}, Languages: {'arabic': 2, 'english': 2}
+2025-08-25 10:13:52,315 - INFO - Rebalancing completed: {'total_entries': 3, 'verdicts': {'true': 1, 'false': 2}, 'languages': {'arabic': 1, 'english': 2}, 'balance_ratio': 0.5, 'language_balance': 0.5}
+2025-08-25 10:13:52,317 - INFO - Replaced original dataset with rebalanced version
+2025-08-25 10:13:52,318 - INFO - Rebalancing completed successfully
+2025-08-25 10:15:18,310 - INFO - ============================================================
+2025-08-25 10:15:18,310 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:15:18,311 - INFO - ============================================================
+2025-08-25 10:15:18,311 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:15:18,325 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:15:18,328 - INFO - Loaded 3 existing entries
+2025-08-25 10:15:18,328 - INFO - Current distribution - Verdicts: {'true': 2, 'false': 1}, Languages: {'arabic': 1, 'english': 2}
+2025-08-25 10:15:18,329 - INFO - Rebalancing completed: {'total_entries': 0, 'verdicts': {'true': 0, 'false': 0}, 'languages': {'arabic': 0, 'english': 0}, 'balance_ratio': 0, 'language_balance': 0}
+2025-08-25 10:15:18,329 - INFO - Replaced original dataset with rebalanced version
+2025-08-25 10:40:26,373 - INFO - ============================================================
+2025-08-25 10:40:26,373 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:40:26,373 - INFO - ============================================================
+2025-08-25 10:40:26,373 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:40:26,385 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:40:26,386 - INFO - Loaded 0 existing entries
+2025-08-25 10:40:26,387 - ERROR - No entries found in dataset. Aborting rebalancing.
+2025-08-25 10:46:04,436 - INFO - ============================================================
+2025-08-25 10:46:04,436 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:46:04,437 - INFO - ============================================================
+2025-08-25 10:46:04,437 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:46:04,447 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:46:04,448 - INFO - Loaded 0 existing entries
+2025-08-25 10:46:04,448 - ERROR - No entries found in dataset. Aborting rebalancing.
+2025-08-25 10:46:16,149 - INFO - ============================================================
+2025-08-25 10:46:16,150 - INFO - STARTING COMPREHENSIVE DATASET REBALANCING
+2025-08-25 10:46:16,150 - INFO - ============================================================
+2025-08-25 10:46:16,150 - INFO - Starting rebalancing of data/judgmental_final.jsonl
+2025-08-25 10:46:16,164 - INFO - Loaded AAOIFI content from 2 files
+2025-08-25 10:46:16,164 - INFO - Loaded 0 existing entries
+2025-08-25 10:46:16,164 - ERROR - No entries found in dataset. Aborting rebalancing.

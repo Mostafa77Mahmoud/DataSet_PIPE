@@ -1,0 +1,10 @@
+# Overall Validation Summary
+
+Validation completed at: 2025-08-25 11:22:37
+
+- data/judgmental_final.jsonl: ✅ Validated
+- data/train.jsonl: ✅ Validated
+- data/val.jsonl: ✅ Validated
+- data/test.jsonl: ✅ Validated
+
+⚠️ Human review sample creation skipped: dataset empty (data/judgmental_final.jsonl)

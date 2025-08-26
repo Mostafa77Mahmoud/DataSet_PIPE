@@ -1,0 +1,7 @@
+2025-08-25 11:23:05,179 - INFO - Loaded AAOIFI content: 2818234 characters
+2025-08-25 11:23:05,179 - INFO - 🔍 STARTING DATASET GENERATION
+2025-08-25 11:23:05,179 - INFO - Target size: 3000
+2025-08-25 11:23:05,181 - INFO - Configured API key 1/2
+2025-08-25 11:23:05,181 - INFO - Environment check passed with 2 API keys
+2025-08-25 11:23:05,182 - INFO - Created backup: backup/20250825_112305
+2025-08-25 11:23:05,355 - INFO - Created 54 seeds (27 Arabic, 27 English)

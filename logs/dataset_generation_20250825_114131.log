@@ -1,0 +1,1602 @@
+2025-08-25 11:41:31,625 - INFO - Loaded AAOIFI content: 2787209 characters
+2025-08-25 11:41:31,626 - INFO - 🔍 STARTING DATASET GENERATION
+2025-08-25 11:41:31,626 - INFO - Target size: 3000
+2025-08-25 11:41:31,627 - INFO - Configured API key 1/2
+2025-08-25 11:41:31,628 - INFO - Environment check passed with 2 API keys
+2025-08-25 11:41:31,634 - INFO - Created backup: backup/20250825_114131
+2025-08-25 11:41:31,783 - INFO - Created 54 seeds (27 Arabic, 27 English)
+2025-08-25 11:41:31,788 - INFO - Processing batch 0: 50 seeds
+2025-08-25 11:41:43,316 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:41:43,316 - INFO - Configured API key 2/2
+2025-08-25 11:41:43,317 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 11:41:46,944 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:41:46,945 - WARNING - All keys quota-limited. Waiting 56.4s for next available key
+2025-08-25 11:42:44,317 - INFO - Configured API key 1/2
+2025-08-25 11:42:44,317 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:42:55,442 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:42:55,442 - INFO - Configured API key 2/2
+2025-08-25 11:42:55,442 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 11:42:55,442 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c99ecc90 state=finished raised ValueError>]
+2025-08-25 11:42:55,442 - ERROR - Failed to process seed en_0017: RetryError[<Future at 0x7f39c99ecc90 state=finished raised ValueError>]
+2025-08-25 11:42:56,987 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:42:56,987 - WARNING - All keys quota-limited. Waiting 58.5s for next available key
+2025-08-25 11:43:56,442 - INFO - Configured API key 1/2
+2025-08-25 11:43:56,442 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:44:08,764 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:44:08,765 - INFO - Configured API key 2/2
+2025-08-25 11:44:08,765 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 11:44:20,868 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:44:20,869 - WARNING - All keys quota-limited. Waiting 47.9s for next available key
+2025-08-25 11:45:09,765 - INFO - Configured API key 1/2
+2025-08-25 11:45:09,765 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:45:09,765 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c9962d90 state=finished raised ValueError>]
+2025-08-25 11:45:09,765 - ERROR - Failed to process seed ar_7008: RetryError[<Future at 0x7f39c9962d90 state=finished raised ValueError>]
+2025-08-25 11:45:19,638 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:45:19,638 - WARNING - All keys quota-limited. Waiting 1.2s for next available key
+2025-08-25 11:45:21,868 - INFO - Configured API key 2/2
+2025-08-25 11:45:21,869 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:45:34,740 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:45:34,740 - WARNING - All keys quota-limited. Waiting 44.9s for next available key
+2025-08-25 11:46:20,638 - INFO - Configured API key 1/2
+2025-08-25 11:46:20,638 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:46:32,285 - ERROR - Failed to process seed ar_6994: Unterminated string starting at: line 4 column 16 (char 37)
+2025-08-25 11:46:35,340 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:46:35,340 - INFO - Configured API key 2/2
+2025-08-25 11:46:35,340 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 11:46:40,722 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:46:40,722 - WARNING - All keys quota-limited. Waiting 54.6s for next available key
+2025-08-25 11:47:36,340 - INFO - Configured API key 1/2
+2025-08-25 11:47:36,340 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:47:45,462 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 11:47:45,462 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c98554d0 state=finished raised InternalServerError>]
+2025-08-25 11:47:45,462 - ERROR - Failed to process seed en_0007: RetryError[<Future at 0x7f39c98554d0 state=finished raised InternalServerError>]
+2025-08-25 11:47:47,297 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:47:47,297 - INFO - Configured API key 2/2
+2025-08-25 11:47:47,297 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 11:47:58,613 - ERROR - Failed to process seed en_0001: Unterminated string starting at: line 4 column 16 (char 37)
+2025-08-25 11:48:08,445 - INFO - Processed seed ar_6997: True (ar)
+2025-08-25 11:48:10,273 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:48:10,273 - WARNING - All keys quota-limited. Waiting 37.0s for next available key
+2025-08-25 11:48:48,297 - INFO - Configured API key 1/2
+2025-08-25 11:48:48,297 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:48:52,861 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:48:52,861 - WARNING - All keys quota-limited. Waiting 17.4s for next available key
+2025-08-25 11:49:11,273 - INFO - Configured API key 2/2
+2025-08-25 11:49:11,273 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:49:23,242 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:49:23,242 - WARNING - All keys quota-limited. Waiting 29.6s for next available key
+2025-08-25 11:49:53,861 - INFO - Configured API key 1/2
+2025-08-25 11:49:53,861 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:49:53,861 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c89ffe10 state=finished raised ValueError>]
+2025-08-25 11:49:53,861 - ERROR - Failed to process seed en_0018: RetryError[<Future at 0x7f39c89ffe10 state=finished raised ValueError>]
+2025-08-25 11:49:55,198 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:49:55,199 - WARNING - All keys quota-limited. Waiting 28.0s for next available key
+2025-08-25 11:50:24,242 - INFO - Configured API key 2/2
+2025-08-25 11:50:24,243 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:50:29,243 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:50:29,243 - WARNING - All keys quota-limited. Waiting 26.0s for next available key
+2025-08-25 11:50:56,199 - INFO - Configured API key 1/2
+2025-08-25 11:50:56,199 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:51:08,102 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:51:08,102 - WARNING - All keys quota-limited. Waiting 21.1s for next available key
+2025-08-25 11:51:30,243 - INFO - Configured API key 2/2
+2025-08-25 11:51:30,243 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:51:30,243 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c89ff750 state=finished raised ValueError>]
+2025-08-25 11:51:30,244 - ERROR - Failed to process seed en_0009: RetryError[<Future at 0x7f39c89ff750 state=finished raised ValueError>]
+2025-08-25 11:51:39,943 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:51:39,943 - WARNING - All keys quota-limited. Waiting 28.2s for next available key
+2025-08-25 11:52:09,102 - INFO - Configured API key 1/2
+2025-08-25 11:52:09,102 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:52:20,371 - ERROR - Failed to process seed en_0022: Expecting value: line 1 column 1 (char 0)
+2025-08-25 11:52:25,517 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 11:52:31,767 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:52:31,767 - WARNING - All keys quota-limited. Waiting 8.2s for next available key
+2025-08-25 11:52:40,943 - INFO - Configured API key 2/2
+2025-08-25 11:52:40,944 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:52:44,739 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:52:44,739 - WARNING - All keys quota-limited. Waiting 47.0s for next available key
+2025-08-25 11:53:32,767 - INFO - Configured API key 1/2
+2025-08-25 11:53:32,767 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:53:32,767 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c959cd10 state=finished raised ValueError>]
+2025-08-25 11:53:32,767 - ERROR - Failed to process seed en_0012: RetryError[<Future at 0x7f39c959cd10 state=finished raised ValueError>]
+2025-08-25 11:53:34,253 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:53:34,253 - WARNING - All keys quota-limited. Waiting 10.5s for next available key
+2025-08-25 11:53:45,739 - INFO - Configured API key 2/2
+2025-08-25 11:53:45,739 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:53:57,112 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:53:57,112 - WARNING - All keys quota-limited. Waiting 37.1s for next available key
+2025-08-25 11:54:35,253 - INFO - Configured API key 1/2
+2025-08-25 11:54:35,253 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:54:41,372 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:54:41,372 - WARNING - All keys quota-limited. Waiting 15.7s for next available key
+2025-08-25 11:54:58,112 - INFO - Configured API key 2/2
+2025-08-25 11:54:58,112 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:54:58,113 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8da6c10 state=finished raised ValueError>]
+2025-08-25 11:54:58,113 - ERROR - Failed to process seed ar_7001: RetryError[<Future at 0x7f39c8da6c10 state=finished raised ValueError>]
+2025-08-25 11:55:07,666 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:55:07,666 - WARNING - All keys quota-limited. Waiting 33.7s for next available key
+2025-08-25 11:55:42,372 - INFO - Configured API key 1/2
+2025-08-25 11:55:42,372 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:55:53,538 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:55:53,538 - WARNING - All keys quota-limited. Waiting 14.1s for next available key
+2025-08-25 11:56:08,666 - INFO - Configured API key 2/2
+2025-08-25 11:56:08,666 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:56:16,737 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 11:56:16,737 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8da6d10 state=finished raised InternalServerError>]
+2025-08-25 11:56:16,737 - ERROR - Failed to process seed en_0020: RetryError[<Future at 0x7f39c8da6d10 state=finished raised InternalServerError>]
+2025-08-25 11:56:17,859 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:56:17,859 - WARNING - All keys quota-limited. Waiting 35.7s for next available key
+2025-08-25 11:56:54,538 - INFO - Configured API key 1/2
+2025-08-25 11:56:54,539 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:57:00,576 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 11:57:06,398 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:57:06,399 - WARNING - All keys quota-limited. Waiting 11.5s for next available key
+2025-08-25 11:57:18,859 - INFO - Configured API key 2/2
+2025-08-25 11:57:18,859 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 11:57:18,860 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8da4810 state=finished raised ValueError>]
+2025-08-25 11:57:18,860 - ERROR - Failed to process seed ar_6996: RetryError[<Future at 0x7f39c8da4810 state=finished raised ValueError>]
+2025-08-25 11:57:20,340 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:57:20,340 - WARNING - All keys quota-limited. Waiting 46.1s for next available key
+2025-08-25 11:58:07,399 - INFO - Configured API key 1/2
+2025-08-25 11:58:07,399 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:58:18,410 - ERROR - Failed to process seed en_0023: Unterminated string starting at: line 4 column 1 (char 22)
+2025-08-25 11:58:27,521 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:58:27,521 - INFO - Configured API key 2/2
+2025-08-25 11:58:27,521 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 11:58:31,489 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:58:31,489 - WARNING - All keys quota-limited. Waiting 56.0s for next available key
+2025-08-25 11:59:28,521 - INFO - Configured API key 1/2
+2025-08-25 11:59:28,521 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 11:59:43,269 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 11:59:43,269 - INFO - Configured API key 2/2
+2025-08-25 11:59:43,269 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 11:59:43,269 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5f4b50 state=finished raised ValueError>]
+2025-08-25 11:59:43,269 - ERROR - Failed to process seed ar_7009: RetryError[<Future at 0x7f39ca5f4b50 state=finished raised ValueError>]
+2025-08-25 11:59:53,234 - ERROR - Failed to process seed en_0019: Unterminated string starting at: line 4 column 16 (char 37)
+2025-08-25 11:59:56,248 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 11:59:56,248 - WARNING - All keys quota-limited. Waiting 47.0s for next available key
+2025-08-25 12:00:44,269 - INFO - Configured API key 1/2
+2025-08-25 12:00:44,269 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:00:51,487 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:00:57,303 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:00:57,303 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5f7010 state=finished raised InternalServerError>]
+2025-08-25 12:00:57,304 - ERROR - Failed to process seed en_0004: RetryError[<Future at 0x7f39ca5f7010 state=finished raised InternalServerError>]
+2025-08-25 12:01:01,592 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:01:01,593 - INFO - Configured API key 2/2
+2025-08-25 12:01:01,593 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:01:13,323 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:01:13,323 - WARNING - All keys quota-limited. Waiting 48.3s for next available key
+2025-08-25 12:02:02,592 - INFO - Configured API key 1/2
+2025-08-25 12:02:02,593 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:02:14,272 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:02:14,272 - INFO - Configured API key 2/2
+2025-08-25 12:02:14,272 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:02:14,272 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5f5690 state=finished raised ValueError>]
+2025-08-25 12:02:14,272 - ERROR - Failed to process seed en_0016: RetryError[<Future at 0x7f39ca5f5690 state=finished raised ValueError>]
+2025-08-25 12:02:23,709 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:02:23,709 - WARNING - All keys quota-limited. Waiting 50.6s for next available key
+2025-08-25 12:03:15,272 - INFO - Configured API key 1/2
+2025-08-25 12:03:15,272 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:03:27,352 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:03:27,352 - INFO - Configured API key 2/2
+2025-08-25 12:03:27,352 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:03:43,039 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:03:43,039 - WARNING - All keys quota-limited. Waiting 44.3s for next available key
+2025-08-25 12:04:28,352 - INFO - Configured API key 1/2
+2025-08-25 12:04:28,352 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:04:28,353 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca602fd0 state=finished raised ValueError>]
+2025-08-25 12:04:28,353 - ERROR - Failed to process seed ar_6998: RetryError[<Future at 0x7f39ca602fd0 state=finished raised ValueError>]
+2025-08-25 12:04:39,390 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:04:39,391 - WARNING - All keys quota-limited. Waiting 3.6s for next available key
+2025-08-25 12:04:44,039 - INFO - Configured API key 2/2
+2025-08-25 12:04:44,040 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:04:48,961 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:04:48,962 - WARNING - All keys quota-limited. Waiting 50.4s for next available key
+2025-08-25 12:05:40,391 - INFO - Configured API key 1/2
+2025-08-25 12:05:40,391 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:05:45,431 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:05:45,432 - WARNING - All keys quota-limited. Waiting 3.5s for next available key
+2025-08-25 12:05:49,962 - INFO - Configured API key 2/2
+2025-08-25 12:05:49,962 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:05:49,962 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca61ca90 state=finished raised ValueError>]
+2025-08-25 12:05:49,962 - ERROR - Failed to process seed ar_7007: RetryError[<Future at 0x7f39ca61ca90 state=finished raised ValueError>]
+2025-08-25 12:06:00,286 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:06:00,286 - WARNING - All keys quota-limited. Waiting 45.1s for next available key
+2025-08-25 12:06:46,432 - INFO - Configured API key 1/2
+2025-08-25 12:06:46,432 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:06:58,974 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:06:58,974 - WARNING - All keys quota-limited. Waiting 1.3s for next available key
+2025-08-25 12:07:01,286 - INFO - Configured API key 2/2
+2025-08-25 12:07:01,286 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:07:13,953 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:07:13,954 - WARNING - All keys quota-limited. Waiting 45.0s for next available key
+2025-08-25 12:07:59,974 - INFO - Configured API key 1/2
+2025-08-25 12:07:59,974 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:07:59,974 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca603450 state=finished raised ValueError>]
+2025-08-25 12:07:59,974 - ERROR - Failed to process seed ar_6989: RetryError[<Future at 0x7f39ca603450 state=finished raised ValueError>]
+2025-08-25 12:08:01,823 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:08:01,824 - WARNING - All keys quota-limited. Waiting 12.1s for next available key
+2025-08-25 12:08:14,954 - INFO - Configured API key 2/2
+2025-08-25 12:08:14,954 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:08:26,366 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:08:26,367 - WARNING - All keys quota-limited. Waiting 35.5s for next available key
+2025-08-25 12:09:02,824 - INFO - Configured API key 1/2
+2025-08-25 12:09:02,824 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:09:15,089 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:09:15,089 - WARNING - All keys quota-limited. Waiting 11.3s for next available key
+2025-08-25 12:09:27,367 - INFO - Configured API key 2/2
+2025-08-25 12:09:27,367 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:09:27,367 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca61ee10 state=finished raised ValueError>]
+2025-08-25 12:09:27,367 - ERROR - Failed to process seed ar_6131: RetryError[<Future at 0x7f39ca61ee10 state=finished raised ValueError>]
+2025-08-25 12:09:31,243 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:09:31,243 - WARNING - All keys quota-limited. Waiting 43.8s for next available key
+2025-08-25 12:10:16,089 - INFO - Configured API key 1/2
+2025-08-25 12:10:16,089 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:10:22,749 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:10:33,223 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:10:33,223 - INFO - Configured API key 2/2
+2025-08-25 12:10:33,223 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:10:33,223 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca61c150 state=finished raised ValueError>]
+2025-08-25 12:10:33,224 - ERROR - Failed to process seed en_0011: RetryError[<Future at 0x7f39ca61c150 state=finished raised ValueError>]
+2025-08-25 12:10:44,420 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:10:44,421 - WARNING - All keys quota-limited. Waiting 48.8s for next available key
+2025-08-25 12:11:34,223 - INFO - Configured API key 1/2
+2025-08-25 12:11:34,223 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:11:45,726 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:11:45,727 - INFO - Configured API key 2/2
+2025-08-25 12:11:45,727 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:11:56,708 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:11:56,708 - WARNING - All keys quota-limited. Waiting 49.0s for next available key
+2025-08-25 12:12:46,726 - INFO - Configured API key 1/2
+2025-08-25 12:12:46,727 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:12:46,727 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca600f90 state=finished raised ValueError>]
+2025-08-25 12:12:46,727 - ERROR - Failed to process seed en_0027: RetryError[<Future at 0x7f39ca600f90 state=finished raised ValueError>]
+2025-08-25 12:12:56,969 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:12:56,970 - INFO - Configured API key 2/2
+2025-08-25 12:12:56,970 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:13:00,155 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:13:05,861 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:13:05,861 - WARNING - All keys quota-limited. Waiting 51.1s for next available key
+2025-08-25 12:13:57,970 - INFO - Configured API key 1/2
+2025-08-25 12:13:57,970 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:13:57,970 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca61ec90 state=finished raised ValueError>]
+2025-08-25 12:13:57,970 - ERROR - Failed to process seed en_0003: RetryError[<Future at 0x7f39ca61ec90 state=finished raised ValueError>]
+2025-08-25 12:14:03,484 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:14:11,349 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:14:11,350 - INFO - Configured API key 2/2
+2025-08-25 12:14:11,350 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:14:17,284 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:14:17,284 - WARNING - All keys quota-limited. Waiting 54.1s for next available key
+2025-08-25 12:15:12,350 - INFO - Configured API key 1/2
+2025-08-25 12:15:12,350 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:15:12,350 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca601e90 state=finished raised ValueError>]
+2025-08-25 12:15:12,350 - ERROR - Failed to process seed ar_6130: RetryError[<Future at 0x7f39ca601e90 state=finished raised ValueError>]
+2025-08-25 12:15:22,190 - ERROR - Failed to process seed ar_7006: Unterminated string starting at: line 4 column 16 (char 37)
+2025-08-25 12:15:23,295 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:15:23,296 - INFO - Configured API key 2/2
+2025-08-25 12:15:23,296 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:15:34,651 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:15:34,652 - WARNING - All keys quota-limited. Waiting 48.6s for next available key
+2025-08-25 12:16:24,296 - INFO - Configured API key 1/2
+2025-08-25 12:16:24,297 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:16:38,994 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:16:38,994 - INFO - Configured API key 2/2
+2025-08-25 12:16:38,994 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:16:38,995 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5f5710 state=finished raised ValueError>]
+2025-08-25 12:16:38,995 - ERROR - Failed to process seed ar_6992: RetryError[<Future at 0x7f39ca5f5710 state=finished raised ValueError>]
+2025-08-25 12:16:42,815 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:16:42,815 - WARNING - All keys quota-limited. Waiting 56.2s for next available key
+2025-08-25 12:17:39,995 - INFO - Configured API key 1/2
+2025-08-25 12:17:39,995 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:17:51,640 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:17:51,642 - INFO - Configured API key 2/2
+2025-08-25 12:17:51,642 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:18:06,540 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:18:06,540 - WARNING - All keys quota-limited. Waiting 45.1s for next available key
+2025-08-25 12:18:52,640 - INFO - Configured API key 1/2
+2025-08-25 12:18:52,640 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:18:52,641 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5f49d0 state=finished raised ValueError>]
+2025-08-25 12:18:52,641 - ERROR - Failed to process seed en_0010: RetryError[<Future at 0x7f39ca5f49d0 state=finished raised ValueError>]
+2025-08-25 12:18:55,591 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:18:55,591 - WARNING - All keys quota-limited. Waiting 10.9s for next available key
+2025-08-25 12:19:07,540 - INFO - Configured API key 2/2
+2025-08-25 12:19:07,540 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:19:19,873 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:19:19,873 - WARNING - All keys quota-limited. Waiting 35.7s for next available key
+2025-08-25 12:19:56,591 - INFO - Configured API key 1/2
+2025-08-25 12:19:56,591 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:20:08,726 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:20:08,726 - WARNING - All keys quota-limited. Waiting 11.1s for next available key
+2025-08-25 12:20:20,874 - INFO - Configured API key 2/2
+2025-08-25 12:20:20,875 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:20:20,875 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8db9bd0 state=finished raised ValueError>]
+2025-08-25 12:20:20,875 - ERROR - Failed to process seed en_0005: RetryError[<Future at 0x7f39c8db9bd0 state=finished raised ValueError>]
+2025-08-25 12:20:22,602 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:20:22,602 - WARNING - All keys quota-limited. Waiting 46.1s for next available key
+2025-08-25 12:21:09,726 - INFO - Configured API key 1/2
+2025-08-25 12:21:09,726 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:21:21,210 - INFO - Processed seed ar_7002: True (ar)
+2025-08-25 12:21:22,608 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:21:22,608 - INFO - Configured API key 2/2
+2025-08-25 12:21:22,608 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:21:27,381 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:21:30,680 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:21:30,680 - WARNING - All keys quota-limited. Waiting 51.9s for next available key
+2025-08-25 12:22:23,608 - INFO - Configured API key 1/2
+2025-08-25 12:22:23,608 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:22:23,609 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8db87d0 state=finished raised ValueError>]
+2025-08-25 12:22:23,609 - ERROR - Failed to process seed en_0014: RetryError[<Future at 0x7f39c8db87d0 state=finished raised ValueError>]
+2025-08-25 12:22:33,199 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:22:33,199 - INFO - Configured API key 2/2
+2025-08-25 12:22:33,199 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:22:39,234 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:22:39,235 - WARNING - All keys quota-limited. Waiting 54.0s for next available key
+2025-08-25 12:23:34,199 - INFO - Configured API key 1/2
+2025-08-25 12:23:34,200 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:23:45,083 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:23:45,084 - INFO - Configured API key 2/2
+2025-08-25 12:23:45,084 - WARNING - Rotated from key 1 to key 2 (quota_error)
+2025-08-25 12:23:45,084 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8da44d0 state=finished raised ValueError>]
+2025-08-25 12:23:45,084 - ERROR - Failed to process seed en_0021: RetryError[<Future at 0x7f39c8da44d0 state=finished raised ValueError>]
+2025-08-25 12:23:54,725 - INFO - Processed seed ar_0000: False (ar)
+2025-08-25 12:23:56,696 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:23:56,696 - WARNING - All keys quota-limited. Waiting 48.4s for next available key
+2025-08-25 12:24:46,084 - INFO - Configured API key 1/2
+2025-08-25 12:24:46,084 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:24:50,384 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:24:50,384 - WARNING - All keys quota-limited. Waiting 6.3s for next available key
+2025-08-25 12:24:57,696 - INFO - Configured API key 2/2
+2025-08-25 12:24:57,696 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:25:08,661 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:25:08,661 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8db8b90 state=finished raised InternalServerError>]
+2025-08-25 12:25:08,661 - ERROR - Failed to process seed en_0013: RetryError[<Future at 0x7f39c8db8b90 state=finished raised InternalServerError>]
+2025-08-25 12:25:17,505 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:25:17,505 - WARNING - All keys quota-limited. Waiting 32.9s for next available key
+2025-08-25 12:25:51,384 - INFO - Configured API key 1/2
+2025-08-25 12:25:51,384 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:26:02,216 - WARNING - Key 1 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:26:02,216 - WARNING - All keys quota-limited. Waiting 15.3s for next available key
+2025-08-25 12:26:18,505 - INFO - Configured API key 2/2
+2025-08-25 12:26:18,505 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:26:31,367 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:26:31,367 - WARNING - All keys quota-limited. Waiting 30.8s for next available key
+2025-08-25 12:27:03,216 - INFO - Configured API key 1/2
+2025-08-25 12:27:03,216 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:27:03,216 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8da6610 state=finished raised ValueError>]
+2025-08-25 12:27:03,217 - ERROR - Failed to process seed en_0015: RetryError[<Future at 0x7f39c8da6610 state=finished raised ValueError>]
+2025-08-25 12:27:03,519 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-08-25 12:27:03,520 - WARNING - All keys quota-limited. Waiting 27.8s for next available key
+2025-08-25 12:27:32,367 - INFO - Configured API key 2/2
+2025-08-25 12:27:32,367 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:27:44,387 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:27:44,387 - WARNING - All keys quota-limited. Waiting 60.0s for next available key
+2025-08-25 12:28:45,387 - INFO - Configured API key 2/2
+2025-08-25 12:28:45,387 - WARNING - Rotated from key 2 to key 2 (quota_recovery)
+2025-08-25 12:28:48,890 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:28:48,890 - WARNING - All keys quota-limited. Waiting 60.0s for next available key
+2025-08-25 12:29:49,890 - INFO - Configured API key 2/2
+2025-08-25 12:29:49,890 - WARNING - Rotated from key 2 to key 2 (quota_recovery)
+2025-08-25 12:29:49,891 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8db8650 state=finished raised ValueError>]
+2025-08-25 12:29:49,891 - ERROR - Failed to process seed ar_7005: RetryError[<Future at 0x7f39c8db8650 state=finished raised ValueError>]
+2025-08-25 12:29:56,304 - ERROR - API call failed: 500 An internal error has occurred. Please retry or report in https://developers.generativeai.google/guide/troubleshooting
+2025-08-25 12:29:59,596 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 1.
+2025-08-25 12:29:59,596 - WARNING - All keys quota-limited. Waiting 60.0s for next available key
+2025-08-25 12:31:00,596 - INFO - Configured API key 2/2
+2025-08-25 12:31:00,597 - WARNING - Rotated from key 2 to key 2 (quota_recovery)
+2025-08-25 12:31:12,042 - WARNING - Key 2 blocked for 60s due to: Invalid operation: The `response.text` quick accessor requires the response to contain a valid `Part`, but none were returned. The candidate's [finish_reason](https://ai.google.dev/api/generate-content#finishreason) is 2.
+2025-08-25 12:31:12,043 - WARNING - All keys quota-limited. Waiting 51.5s for next available key
+2025-08-25 12:32:04,520 - INFO - Configured API key 1/2
+2025-08-25 12:32:04,520 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:32:04,520 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c959ddd0 state=finished raised ValueError>]
+2025-08-25 12:32:04,520 - ERROR - Failed to process seed ar_6991: RetryError[<Future at 0x7f39c959ddd0 state=finished raised ValueError>]
+2025-08-25 12:32:04,843 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-08-25 12:32:04,844 - WARNING - All keys quota-limited. Waiting 7.2s for next available key
+2025-08-25 12:32:13,043 - INFO - Configured API key 2/2
+2025-08-25 12:32:13,043 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:32:15,362 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-08-25 12:32:15,363 - WARNING - All keys quota-limited. Waiting 289.5s for next available key
+2025-08-25 12:37:05,843 - INFO - Configured API key 1/2
+2025-08-25 12:37:05,843 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:37:08,160 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 51
+}
+]
+2025-08-25 12:37:08,160 - WARNING - All keys quota-limited. Waiting 7.2s for next available key
+2025-08-25 12:37:16,363 - INFO - Configured API key 2/2
+2025-08-25 12:37:16,363 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:37:16,363 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c9709010 state=finished raised ResourceExhausted>]
+2025-08-25 12:37:16,363 - ERROR - Failed to process seed en_0024: RetryError[<Future at 0x7f39c9709010 state=finished raised ResourceExhausted>]
+2025-08-25 12:37:16,509 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-08-25 12:37:16,509 - WARNING - All keys quota-limited. Waiting 291.7s for next available key
+2025-08-25 12:42:09,160 - INFO - Configured API key 1/2
+2025-08-25 12:42:09,161 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:42:11,467 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 48
+}
+]
+2025-08-25 12:42:11,467 - WARNING - All keys quota-limited. Waiting 5.0s for next available key
+2025-08-25 12:42:17,509 - INFO - Configured API key 2/2
+2025-08-25 12:42:17,509 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:42:19,835 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-08-25 12:42:19,835 - WARNING - All keys quota-limited. Waiting 291.6s for next available key
+2025-08-25 12:47:12,467 - INFO - Configured API key 1/2
+2025-08-25 12:47:12,467 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:47:12,468 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8db8ad0 state=finished raised ResourceExhausted>]
+2025-08-25 12:47:12,468 - ERROR - Failed to process seed ar_7004: RetryError[<Future at 0x7f39c8db8ad0 state=finished raised ResourceExhausted>]
+2025-08-25 12:47:12,767 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-08-25 12:47:12,767 - WARNING - All keys quota-limited. Waiting 7.1s for next available key
+2025-08-25 12:47:20,836 - INFO - Configured API key 2/2
+2025-08-25 12:47:20,837 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:47:23,148 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-08-25 12:47:23,148 - WARNING - All keys quota-limited. Waiting 289.6s for next available key
+2025-08-25 12:52:13,768 - INFO - Configured API key 1/2
+2025-08-25 12:52:13,768 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:52:16,070 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 43
+}
+]
+2025-08-25 12:52:16,070 - WARNING - All keys quota-limited. Waiting 7.1s for next available key
+2025-08-25 12:52:24,148 - INFO - Configured API key 2/2
+2025-08-25 12:52:24,148 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:52:24,148 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5d9410 state=finished raised ResourceExhausted>]
+2025-08-25 12:52:24,149 - ERROR - Failed to process seed en_0025: RetryError[<Future at 0x7f39ca5d9410 state=finished raised ResourceExhausted>]
+2025-08-25 12:52:24,483 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 35
+}
+]
+2025-08-25 12:52:24,483 - WARNING - All keys quota-limited. Waiting 291.6s for next available key
+2025-08-25 12:57:17,070 - INFO - Configured API key 1/2
+2025-08-25 12:57:17,070 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 12:57:19,390 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 40
+}
+]
+2025-08-25 12:57:19,390 - WARNING - All keys quota-limited. Waiting 5.1s for next available key
+2025-08-25 12:57:25,483 - INFO - Configured API key 2/2
+2025-08-25 12:57:25,483 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 12:57:27,632 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2025-08-25 12:57:27,633 - WARNING - All keys quota-limited. Waiting 291.8s for next available key
+2025-08-25 13:02:20,391 - INFO - Configured API key 1/2
+2025-08-25 13:02:20,392 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:02:20,392 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5d9e10 state=finished raised ResourceExhausted>]
+2025-08-25 13:02:20,392 - ERROR - Failed to process seed ar_6999: RetryError[<Future at 0x7f39ca5d9e10 state=finished raised ResourceExhausted>]
+2025-08-25 13:02:20,709 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 39
+}
+]
+2025-08-25 13:02:20,709 - WARNING - All keys quota-limited. Waiting 6.9s for next available key
+2025-08-25 13:02:28,633 - INFO - Configured API key 2/2
+2025-08-25 13:02:28,633 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:02:30,954 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 29
+}
+]
+2025-08-25 13:02:30,954 - WARNING - All keys quota-limited. Waiting 289.8s for next available key
+2025-08-25 13:07:21,709 - INFO - Configured API key 1/2
+2025-08-25 13:07:21,709 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:07:24,024 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 36
+}
+]
+2025-08-25 13:07:24,024 - WARNING - All keys quota-limited. Waiting 6.9s for next available key
+2025-08-25 13:07:31,954 - INFO - Configured API key 2/2
+2025-08-25 13:07:31,954 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:07:31,954 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5f04d0 state=finished raised ResourceExhausted>]
+2025-08-25 13:07:31,954 - ERROR - Failed to process seed ar_6995: RetryError[<Future at 0x7f39ca5f04d0 state=finished raised ResourceExhausted>]
+2025-08-25 13:07:32,273 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 27
+}
+]
+2025-08-25 13:07:32,274 - WARNING - All keys quota-limited. Waiting 291.8s for next available key
+2025-08-25 13:12:25,024 - INFO - Configured API key 1/2
+2025-08-25 13:12:25,025 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:12:27,346 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 32
+}
+]
+2025-08-25 13:12:27,347 - WARNING - All keys quota-limited. Waiting 4.9s for next available key
+2025-08-25 13:12:33,273 - INFO - Configured API key 2/2
+2025-08-25 13:12:33,274 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:12:35,601 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-25 13:12:35,601 - WARNING - All keys quota-limited. Waiting 291.7s for next available key
+2025-08-25 13:17:28,347 - INFO - Configured API key 1/2
+2025-08-25 13:17:28,347 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:17:28,347 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c9854990 state=finished raised ResourceExhausted>]
+2025-08-25 13:17:28,347 - ERROR - Failed to process seed ar_5762: RetryError[<Future at 0x7f39c9854990 state=finished raised ResourceExhausted>]
+2025-08-25 13:17:28,665 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 31
+}
+]
+2025-08-25 13:17:28,665 - WARNING - All keys quota-limited. Waiting 6.9s for next available key
+2025-08-25 13:17:36,601 - INFO - Configured API key 2/2
+2025-08-25 13:17:36,601 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:17:38,955 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 21
+}
+]
+2025-08-25 13:17:38,955 - WARNING - All keys quota-limited. Waiting 289.7s for next available key
+2025-08-25 13:22:29,666 - INFO - Configured API key 1/2
+2025-08-25 13:22:29,666 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:22:31,981 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 28
+}
+]
+2025-08-25 13:22:31,981 - WARNING - All keys quota-limited. Waiting 7.0s for next available key
+2025-08-25 13:22:39,955 - INFO - Configured API key 2/2
+2025-08-25 13:22:39,955 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:22:39,956 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c9962090 state=finished raised ResourceExhausted>]
+2025-08-25 13:22:39,956 - ERROR - Failed to process seed en_0006: RetryError[<Future at 0x7f39c9962090 state=finished raised ResourceExhausted>]
+2025-08-25 13:22:40,302 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 19
+}
+]
+2025-08-25 13:22:40,303 - WARNING - All keys quota-limited. Waiting 291.7s for next available key
+2025-08-25 13:27:32,981 - INFO - Configured API key 1/2
+2025-08-25 13:27:32,981 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:27:35,283 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 24
+}
+]
+2025-08-25 13:27:35,284 - WARNING - All keys quota-limited. Waiting 5.0s for next available key
+2025-08-25 13:27:41,304 - INFO - Configured API key 2/2
+2025-08-25 13:27:41,304 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:27:43,658 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-08-25 13:27:43,658 - WARNING - All keys quota-limited. Waiting 291.6s for next available key
+2025-08-25 13:32:36,283 - INFO - Configured API key 1/2
+2025-08-25 13:32:36,284 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:32:36,284 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8dbb210 state=finished raised ResourceExhausted>]
+2025-08-25 13:32:36,287 - ERROR - Failed to process seed ar_6990: RetryError[<Future at 0x7f39c8dbb210 state=finished raised ResourceExhausted>]
+2025-08-25 13:32:36,615 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 23
+}
+]
+2025-08-25 13:32:36,616 - WARNING - All keys quota-limited. Waiting 7.0s for next available key
+2025-08-25 13:32:44,659 - INFO - Configured API key 2/2
+2025-08-25 13:32:44,660 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:32:46,987 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 13
+}
+]
+2025-08-25 13:32:46,987 - WARNING - All keys quota-limited. Waiting 289.6s for next available key
+2025-08-25 13:37:37,616 - INFO - Configured API key 1/2
+2025-08-25 13:37:37,616 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:37:39,944 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 20
+}
+]
+2025-08-25 13:37:39,944 - WARNING - All keys quota-limited. Waiting 7.0s for next available key
+2025-08-25 13:37:47,987 - INFO - Configured API key 2/2
+2025-08-25 13:37:47,987 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:37:47,988 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5f7190 state=finished raised ResourceExhausted>]
+2025-08-25 13:37:47,988 - ERROR - Failed to process seed ar_7010: RetryError[<Future at 0x7f39ca5f7190 state=finished raised ResourceExhausted>]
+2025-08-25 13:37:48,305 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 11
+}
+]
+2025-08-25 13:37:48,305 - WARNING - All keys quota-limited. Waiting 291.6s for next available key
+2025-08-25 13:42:40,944 - INFO - Configured API key 1/2
+2025-08-25 13:42:40,944 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:42:43,257 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 16
+}
+]
+2025-08-25 13:42:43,258 - WARNING - All keys quota-limited. Waiting 5.0s for next available key
+2025-08-25 13:42:49,305 - INFO - Configured API key 2/2
+2025-08-25 13:42:49,306 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:42:51,629 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2025-08-25 13:42:51,630 - WARNING - All keys quota-limited. Waiting 291.6s for next available key
+2025-08-25 13:47:44,258 - INFO - Configured API key 1/2
+2025-08-25 13:47:44,258 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:47:44,258 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca61a3d0 state=finished raised ResourceExhausted>]
+2025-08-25 13:47:44,258 - ERROR - Failed to process seed ar_7000: RetryError[<Future at 0x7f39ca61a3d0 state=finished raised ResourceExhausted>]
+2025-08-25 13:47:44,580 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 15
+}
+]
+2025-08-25 13:47:44,580 - WARNING - All keys quota-limited. Waiting 7.0s for next available key
+2025-08-25 13:47:52,630 - INFO - Configured API key 2/2
+2025-08-25 13:47:52,630 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:47:54,951 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 5
+}
+]
+2025-08-25 13:47:54,951 - WARNING - All keys quota-limited. Waiting 289.6s for next available key
+2025-08-25 13:52:45,581 - INFO - Configured API key 1/2
+2025-08-25 13:52:45,581 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:52:47,891 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 12
+}
+]
+2025-08-25 13:52:47,891 - WARNING - All keys quota-limited. Waiting 7.1s for next available key
+2025-08-25 13:52:55,951 - INFO - Configured API key 2/2
+2025-08-25 13:52:55,951 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:52:55,952 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca60ded0 state=finished raised ResourceExhausted>]
+2025-08-25 13:52:55,952 - ERROR - Failed to process seed en_0026: RetryError[<Future at 0x7f39ca60ded0 state=finished raised ResourceExhausted>]
+2025-08-25 13:52:56,269 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 3
+}
+]
+2025-08-25 13:52:56,270 - WARNING - All keys quota-limited. Waiting 291.6s for next available key
+2025-08-25 13:57:48,891 - INFO - Configured API key 1/2
+2025-08-25 13:57:48,892 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 13:57:51,203 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 8
+}
+]
+2025-08-25 13:57:51,203 - WARNING - All keys quota-limited. Waiting 5.1s for next available key
+2025-08-25 13:57:57,270 - INFO - Configured API key 2/2
+2025-08-25 13:57:57,270 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 13:57:59,582 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+}
+]
+2025-08-25 13:57:59,582 - WARNING - All keys quota-limited. Waiting 291.6s for next available key
+2025-08-25 14:02:52,203 - INFO - Configured API key 1/2
+2025-08-25 14:02:52,204 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 14:02:52,204 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca610a90 state=finished raised ResourceExhausted>]
+2025-08-25 14:02:52,204 - ERROR - Failed to process seed ar_7011: RetryError[<Future at 0x7f39ca610a90 state=finished raised ResourceExhausted>]
+2025-08-25 14:02:52,204 - INFO - Processing batch 1: 4 seeds
+2025-08-25 14:02:52,527 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 7
+}
+]
+2025-08-25 14:02:52,527 - WARNING - All keys quota-limited. Waiting 7.1s for next available key
+2025-08-25 14:03:00,582 - INFO - Configured API key 2/2
+2025-08-25 14:03:00,582 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 14:03:02,910 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 57
+}
+]
+2025-08-25 14:03:02,910 - WARNING - All keys quota-limited. Waiting 289.6s for next available key
+2025-08-25 14:07:53,529 - INFO - Configured API key 1/2
+2025-08-25 14:07:53,529 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 14:07:55,670 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 4
+}
+]
+2025-08-25 14:07:55,670 - WARNING - All keys quota-limited. Waiting 7.2s for next available key
+2025-08-25 14:08:03,910 - INFO - Configured API key 2/2
+2025-08-25 14:08:03,911 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 14:08:03,911 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca610310 state=finished raised ResourceExhausted>]
+2025-08-25 14:08:03,911 - ERROR - Failed to process seed ar_7003: RetryError[<Future at 0x7f39ca610310 state=finished raised ResourceExhausted>]
+2025-08-25 14:08:04,233 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 55
+}
+]
+2025-08-25 14:08:04,233 - WARNING - All keys quota-limited. Waiting 291.4s for next available key
+2025-08-25 14:12:56,670 - INFO - Configured API key 1/2
+2025-08-25 14:12:56,671 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 14:12:59,013 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 1
+}
+]
+2025-08-25 14:12:59,013 - WARNING - All keys quota-limited. Waiting 5.2s for next available key
+2025-08-25 14:13:05,233 - INFO - Configured API key 2/2
+2025-08-25 14:13:05,234 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 14:13:07,562 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 52
+}
+]
+2025-08-25 14:13:07,562 - WARNING - All keys quota-limited. Waiting 291.5s for next available key
+2025-08-25 14:18:00,013 - INFO - Configured API key 1/2
+2025-08-25 14:18:00,013 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 14:18:00,014 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca5e08d0 state=finished raised ResourceExhausted>]
+2025-08-25 14:18:00,014 - ERROR - Failed to process seed en_0002: RetryError[<Future at 0x7f39ca5e08d0 state=finished raised ResourceExhausted>]
+2025-08-25 14:18:00,327 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 59
+}
+]
+2025-08-25 14:18:00,327 - WARNING - All keys quota-limited. Waiting 7.2s for next available key
+2025-08-25 14:18:08,562 - INFO - Configured API key 2/2
+2025-08-25 14:18:08,563 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 14:18:10,892 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 49
+}
+]
+2025-08-25 14:18:10,892 - WARNING - All keys quota-limited. Waiting 289.4s for next available key
+2025-08-25 14:23:01,328 - INFO - Configured API key 1/2
+2025-08-25 14:23:01,328 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 14:23:03,654 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 56
+}
+]
+2025-08-25 14:23:03,654 - WARNING - All keys quota-limited. Waiting 7.2s for next available key
+2025-08-25 14:23:11,892 - INFO - Configured API key 2/2
+2025-08-25 14:23:11,892 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 14:23:11,892 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39ca60cd10 state=finished raised ResourceExhausted>]
+2025-08-25 14:23:11,893 - ERROR - Failed to process seed en_0008: RetryError[<Future at 0x7f39ca60cd10 state=finished raised ResourceExhausted>]
+2025-08-25 14:23:12,221 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 47
+}
+]
+2025-08-25 14:23:12,221 - WARNING - All keys quota-limited. Waiting 291.4s for next available key
+2025-08-25 14:28:04,654 - INFO - Configured API key 1/2
+2025-08-25 14:28:04,654 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 14:28:07,022 - WARNING - Key 1 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 53
+}
+]
+2025-08-25 14:28:07,022 - WARNING - All keys quota-limited. Waiting 5.2s for next available key
+2025-08-25 14:28:13,221 - INFO - Configured API key 2/2
+2025-08-25 14:28:13,222 - WARNING - Rotated from key 1 to key 2 (quota_recovery)
+2025-08-25 14:28:15,554 - WARNING - Key 2 blocked for 300s due to: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. [violations {
+  quota_metric: "generativelanguage.googleapis.com/generate_content_free_tier_requests"
+  quota_id: "GenerateRequestsPerDayPerProjectPerModel-FreeTier"
+  quota_dimensions {
+    key: "model"
+    value: "gemini-2.5-pro"
+  }
+  quota_dimensions {
+    key: "location"
+    value: "global"
+  }
+  quota_value: 50
+}
+, links {
+  description: "Learn more about Gemini API quotas"
+  url: "https://ai.google.dev/gemini-api/docs/rate-limits"
+}
+, retry_delay {
+  seconds: 44
+}
+]
+2025-08-25 14:28:15,554 - WARNING - All keys quota-limited. Waiting 291.5s for next available key
+2025-08-25 14:33:08,022 - INFO - Configured API key 1/2
+2025-08-25 14:33:08,022 - WARNING - Rotated from key 2 to key 1 (quota_recovery)
+2025-08-25 14:33:08,023 - ERROR - API call failed with gemini-2.5-pro: RetryError[<Future at 0x7f39c8dcbe50 state=finished raised ResourceExhausted>]
+2025-08-25 14:33:08,023 - ERROR - Failed to process seed ar_6993: RetryError[<Future at 0x7f39c8dcbe50 state=finished raised ResourceExhausted>]
+2025-08-25 14:33:08,023 - INFO - Deduplicating and finalizing dataset...
+2025-08-25 14:33:08,023 - INFO - Removed 0 duplicates
+2025-08-25 14:33:08,034 - INFO - Saved final dataset: 3 examples
+2025-08-25 14:33:08,034 - INFO - Created splits: train=1, val=0, test=2
+2025-08-25 14:33:08,035 - INFO - Created human review sample: 3 examples
+2025-08-25 14:33:08,039 - INFO - Generation completed - see SOLUTION_SUMMARY.md for full report
+2025-08-25 14:33:08,040 - INFO - API Usage Summary: {'current_key': 1, 'usage_per_key': {'key_1': 75, 'key_2': 75}, 'blocked_keys': ['key_2']}

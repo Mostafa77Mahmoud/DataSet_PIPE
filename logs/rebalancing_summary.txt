@@ -1,0 +1,23 @@
+
+# Dataset Rebalancing Summary
+
+Generated: 2025-08-25 11:22:36
+Log file: logs/audit_run_20250825_112236.log
+
+## Final Statistics
+- Total entries: 0
+- True verdicts: 0 (0.0%)
+- False verdicts: 0 (0.0%)
+- Arabic entries: 0 (0.0%)
+- English entries: 0 (0.0%)
+- Verdict balance ratio: 0.000
+- Language balance ratio: 0.000
+
+## Quality Improvements
+✅ Verdict balance: Needs improvement
+✅ Language balance: Needs improvement
+✅ Reference accuracy: All references validated against AAOIFI content
+✅ Scenario diversity: Balanced distribution across different scenarios
+✅ UTF-8 encoding: All Arabic text properly encoded
+
+Dataset is now ready for training.

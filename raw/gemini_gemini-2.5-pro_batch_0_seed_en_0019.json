@@ -1,0 +1,16 @@
+{
+  "seed": {
+    "seed_id": "en_0019",
+    "context": "ﻛﻤﺎ ﺇﻥ ﺧﻠﻒ ﺗﻤ ﱡﱡﻴﺰ ﻫﺬﻩ ﺍﻟﻤﻌﺎﻳﻴﺮ ﺟﻤﻠﺔ ﻋﻮﺍﻣــﻞ، ﻣﻦ ﺃﺑﺮﺯﻫﺎ: ﺍﻟﻤﻨﻬﺠﻴﺔ ﺍﻟﻌﻠﻤﻴﺔ",
+    "claim": "ﻛﻤﺎ ﺇﻥ ﺧﻠﻒ ﺗﻤ ﱡﱡﻴﺰ ﻫﺬﻩ ﺍﻟﻤﻌﺎﻳﻴﺮ ﺟﻤﻠﺔ ﻋﻮﺍﻣــﻞ، ﻣﻦ ﺃﺑﺮﺯﻫﺎ: ﺍﻟﻤﻨﻬﺠﻴﺔ ﺍﻟﻌﻠﻤﻴﺔ",
+    "chunk_id": 39,
+    "language": "en"
+  },
+  "prompt": "You are an AAOIFI verification auditor. Given CONTEXT (from AAOIFI) and a CLAIM, return a single JSON object:\n\n{\n\"verdict\": \"True\" | \"False\",\n\"explanation\": \"<concise justification, quoting the CONTEXT when possible>\",\n\"reference\": \"<exact AAOIFI citation or 'UNKNOWN'>\",\n\"language\": \"en\"\n}\n\nRules:\n* Do not fabricate references. If no citation can be found in CONTEXT, use \"UNKNOWN\".\n* Use temperature 0.0, be concise, output only JSON.\n\nInput:\nCONTEXT: ﻛﻤﺎ ﺇﻥ ﺧﻠﻒ ﺗﻤ ﱡﱡﻴﺰ ﻫﺬﻩ ﺍﻟﻤﻌﺎﻳﻴﺮ ﺟﻤﻠﺔ ﻋﻮﺍﻣــﻞ، ﻣﻦ ﺃﺑﺮﺯﻫﺎ: ﺍﻟﻤﻨﻬﺠﻴﺔ ﺍﻟﻌﻠﻤﻴﺔ\nCLAIM: ﻛﻤﺎ ﺇﻥ ﺧﻠﻒ ﺗﻤ ﱡﱡﻴﺰ ﻫﺬﻩ ﺍﻟﻤﻌﺎﻳﻴﺮ ﺟﻤﻠﺔ ﻋﻮﺍﻣــﻞ، ﻣﻦ ﺃﺑﺮﺯﻫﺎ: ﺍﻟﻤﻨﻬﺠﻴﺔ ﺍﻟﻌﻠﻤﻴﺔ",
+  "response": {
+    "text": "```json\n{\n\"verdict\": \"True\",\n\"explanation\": \"The claim is a verbatim quote from the provided context: 'ﻛﻤﺎ ﺇﻥ ﺧﻠﻒ ",
+    "model": "gemini-2.5-pro",
+    "api_key_index": 2
+  },
+  "timestamp": 1756123193.2339156
+}

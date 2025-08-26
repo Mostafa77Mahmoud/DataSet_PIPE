@@ -1,0 +1,16 @@
+{
+  "file": "data/val.jsonl",
+  "timestamp": "2025-08-25T11:22:37.156857",
+  "entries_count": 0,
+  "issues_count": 0,
+  "issues": [],
+  "analysis": {
+    "total_entries": 0,
+    "verdicts": {},
+    "languages": {},
+    "balance_ratio": 0,
+    "verdict_percentages": {},
+    "language_percentages": {}
+  },
+  "report": "\n# Judgmental Dataset Validation Report\n\n**Dataset:** data/val.jsonl\n**Generated:** 2025-08-25 11:22:37\n\n## Summary Statistics\n- **Total Entries:** 0\n- **Valid Entries:** 0\n- **Issues Found:** 0\n\n## Balance Analysis\n### Verdict Distribution\n- **True:** 0 (0.0%)\n- **False:** 0 (0.0%)\n- **Balance Ratio:** 0.000\n\n### Language Distribution  \n- **Arabic:** 0 (0.0%)\n- **English:** 0 (0.0%)\n\n## Quality Assessment\n❌ **Balance:** Poor (< 60%)\n✅ **Structure:** No issues found\n\n## Recommendations\n1. Target balance ratio should be >= 0.8 (currently 0.000)\n2. All entries should have proper VERDICT, Explanation, and Reference format\n3. References should be 'UNKNOWN' if uncertain (no fabrication)\n4. Maintain bilingual distribution based on source content\n\n## Dataset Status\n❌ **NEEDS SIGNIFICANT FIXES**\n"
+}
