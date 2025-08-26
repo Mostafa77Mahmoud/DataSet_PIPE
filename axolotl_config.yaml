@@ -1,0 +1,125 @@
+# Axolotl Configuration for 4B Model Fine-tuning on T4 GPU
+# Optimized for bilingual Arabic-English Islamic finance Q&A dataset
+
+# Base model configuration - Using Microsoft Phi-3.5-mini (3.8B parameters)
+base_model: microsoft/Phi-3.5-mini-instruct
+model_type: AutoModelForCausalLM
+tokenizer_type: AutoTokenizer
+
+# Model loading configuration
+load_in_8bit: false
+load_in_4bit: true  # Essential for T4 GPU memory efficiency
+strict: false
+
+# LoRA (Low-Rank Adaptation) configuration for efficient fine-tuning
+adapter: lora
+lora_model_dir:
+lora_r: 32  # Rank - balance between capacity and efficiency
+lora_alpha: 16  # Scaling factor - lower for stability
+lora_dropout: 0.05  # Dropout for regularization
+lora_target_linear: true  # Target all linear layers
+lora_fan_in_fan_out:
+lora_target_modules:
+  - gate_proj
+  - down_proj
+  - up_proj
+  - q_proj
+  - v_proj
+  - k_proj
+  - o_proj
+
+# Dataset configuration
+datasets:
+  - path: output/aligned_qa_alpaca.jsonl  # Main bilingual dataset
+    type: alpaca
+    ds_type: json
+
+# Training hyperparameters optimized for T4 GPU
+sequence_len: 2048  # Context length - balanced for memory and content
+sample_packing: true  # Pack multiple samples for efficiency
+pad_to_sequence_len: true
+
+# Memory optimization settings
+micro_batch_size: 1  # Very small batch size for T4 memory constraints
+gradient_accumulation_steps: 32  # Effective batch size = 1 * 32 = 32
+num_epochs: 3  # Multiple epochs for better learning
+optimizer: adamw_8bit  # Memory-efficient optimizer
+lr_scheduler: cosine
+learning_rate: 0.0002  # Conservative learning rate
+
+# Training configuration
+train_on_inputs: false  # Only train on outputs (answers)
+group_by_length: true  # Group similar lengths for efficiency
+bf16: auto  # Use bfloat16 if available, fallback to fp16
+fp16: true  # Essential for T4 GPU memory efficiency
+tf32: false  # T4 doesn't support TF32
+
+# Gradient and memory management
+gradient_checkpointing: true  # Trade compute for memory
+dataloader_pin_memory: false  # Reduce memory usage
+max_memory:
+  - 14GiB  # T4 has 16GB, leave some headroom
+
+# Evaluation configuration
+val_set_size: 0.05  # 5% validation split
+eval_steps: 100  # Evaluate every 100 steps
+eval_table_size: 5  # Small evaluation table
+save_steps: 200  # Save checkpoint every 200 steps
+logging_steps: 10  # Log every 10 steps
+
+# Output configuration
+output_dir: ./fine-tuned-islamic-finance-4b
+hub_model_id: 
+hub_strategy: every_save
+push_dataset_to_hub: 
+
+# Special tokens and formatting
+special_tokens:
+  bos_token: "<|endoftext|>"
+  eos_token: "<|endoftext|>"
+  pad_token: "<|endoftext|>"
+
+# Prompt format for Alpaca instruction following
+chat_template: alpaca
+default_system_message: ""
+
+# Advanced training settings
+warmup_steps: 50  # Gradual learning rate increase
+weight_decay: 0.01  # Regularization
+max_grad_norm: 1.0  # Gradient clipping
+
+# Wandb logging (optional - disable if not needed)
+wandb_project: islamic-finance-qa-4b
+wandb_entity:
+wandb_watch: false  # Disable to save memory
+wandb_name: bilingual-islamic-finance-phi35
+wandb_log_model: false
+
+# Early stopping configuration
+early_stopping_patience: 3
+save_strategy: steps
+evaluation_strategy: steps
+
+# Memory-efficient settings for T4
+dataloader_num_workers: 2  # Reduce CPU overhead
+remove_unused_columns: true  # Clean up unnecessary data
+ddp_timeout: 1800  # Increase timeout for slower T4
+
+# Precision and performance
+torch_compile: false  # May cause issues on older hardware
+flash_attention: false  # T4 doesn't support flash attention optimally
+sample_packing_eff_est: 1.0
+
+# Multi-GPU settings (disable for single T4)
+ddp: false
+deepspeed:
+
+# Resume training configuration
+resume_from_checkpoint:
+auto_resume_from_checkpoints: false
+
+# Model saving configuration
+save_total_limit: 3  # Keep only 3 checkpoints to save disk space
+load_best_model_at_end: true
+metric_for_best_model: eval_loss
+greater_is_better: false

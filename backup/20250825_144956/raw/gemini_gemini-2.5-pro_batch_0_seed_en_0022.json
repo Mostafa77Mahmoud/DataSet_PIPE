@@ -1,0 +1,16 @@
+{
+  "seed": {
+    "seed_id": "en_0022",
+    "context": "ﻣﻨﺎﻗﺸﺔ ﻣﻼﺣﻈﺎﺕ ﺟﻠﺴﺎﺕ ﺍﻻﺳﺘﻤﺎﻉ ﻓﻲ ﺍﻟﻤﺠﻠﺲ ﺍﻟﺸﺮﻋﻲ ﻭﺗﻌﺪﻳﻞ ﻣﺎ ﻳﺮﺍﻩ ﺍﻟﻤﺠﻠﺲ،",
+    "claim": "ﻣﻨﺎﻗﺸﺔ ﻣﻼﺣﻈﺎﺕ ﺟﻠﺴﺎﺕ ﺍﻻﺳﺘﻤﺎﻉ ﻓﻲ ﺍﻟﻤﺠﻠﺲ ﺍﻟﺸﺮﻋﻲ ﻭﺗﻌﺪﻳﻞ ﻣﺎ ﻳﺮﺍﻩ ﺍﻟﻤﺠﻠﺲ،",
+    "chunk_id": 42,
+    "language": "en"
+  },
+  "prompt": "You are an AAOIFI verification auditor. Given CONTEXT (from AAOIFI) and a CLAIM, return a single JSON object:\n\n{\n\"verdict\": \"True\" | \"False\",\n\"explanation\": \"<concise justification, quoting the CONTEXT when possible>\",\n\"reference\": \"<exact AAOIFI citation or 'UNKNOWN'>\",\n\"language\": \"en\"\n}\n\nRules:\n* Do not fabricate references. If no citation can be found in CONTEXT, use \"UNKNOWN\".\n* Use temperature 0.0, be concise, output only JSON.\n\nInput:\nCONTEXT: ﻣﻨﺎﻗﺸﺔ ﻣﻼﺣﻈﺎﺕ ﺟﻠﺴﺎﺕ ﺍﻻﺳﺘﻤﺎﻉ ﻓﻲ ﺍﻟﻤﺠﻠﺲ ﺍﻟﺸﺮﻋﻲ ﻭﺗﻌﺪﻳﻞ ﻣﺎ ﻳﺮﺍﻩ ﺍﻟﻤﺠﻠﺲ،\nCLAIM: ﻣﻨﺎﻗﺸﺔ ﻣﻼﺣﻈﺎﺕ ﺟﻠﺴﺎﺕ ﺍﻻﺳﺘﻤﺎﻉ ﻓﻲ ﺍﻟﻤﺠﻠﺲ ﺍﻟﺸﺮﻋﻲ ﻭﺗﻌﺪﻳﻞ ﻣﺎ ﻳﺮﺍﻩ ﺍﻟﻤﺠﻠﺲ،",
+  "response": {
+    "text": "```json\n{\n",
+    "model": "gemini-2.5-pro",
+    "api_key_index": 1
+  },
+  "timestamp": 1756122740.3713436
+}

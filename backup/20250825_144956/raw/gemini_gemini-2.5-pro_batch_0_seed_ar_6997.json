@@ -1,0 +1,16 @@
+{
+  "seed": {
+    "seed_id": "ar_6997",
+    "context": "التمويل ال�صخ�صي: المبني على �صيغتي التورق والمرابحة.",
+    "claim": "التمويل ال�صخ�صي: المبني على �صيغتي التورق والمرابحة",
+    "chunk_id": 10599,
+    "language": "ar"
+  },
+  "prompt": "You are an expert AAOIFI verification auditor. Given a CONTEXT paragraph (from AAOIFI) and a short CLAIM (assertion derived from that text), produce a JSON object exactly matching the schema below. ONLY return valid JSON — no extra commentary.\n\nSchema:\n{\n\"verdict\": \"True\" | \"False\",\n\"explanation\": \"<one- or two-sentence justification that quotes or paraphrases the CONTEXT directly>\",\n\"reference\": \"<exact citation found in the CONTEXT e.g. 'Standard 5, Clause 2/2'> or 'UNKNOWN'\",\n\"language\": \"ar\"\n}\n\nRULES:\n* Do NOT invent references. If the CONTEXT does not explicitly support/refute the claim, put \"reference\": \"UNKNOWN\" and set verdict according to available evidence.\n* Use temperature 0.0.\n* Keep explanation concise, and include a short quoted phrase from CONTEXT if applicable.\n\nInput:\nCONTEXT: التمويل ال�صخ�صي: المبني على �صيغتي التورق والمرابحة.\nCLAIM: التمويل ال�صخ�صي: المبني على �صيغتي التورق والمرابحة",
+  "response": {
+    "text": "```json\n{\n\"verdict\": \"True\",\n\"explanation\": \"النص يذكر صراحة أن 'التمويل الشخصي: المبني على صيغتي التورق والمرابحة'، وهو ما يطابق الادعاء تمامًا.\",\n\"reference\": \"UNKNOWN\",\n\"language\": \"ar\"\n}\n```",
+    "model": "gemini-2.5-pro",
+    "api_key_index": 2
+  },
+  "timestamp": 1756122488.4453182
+}

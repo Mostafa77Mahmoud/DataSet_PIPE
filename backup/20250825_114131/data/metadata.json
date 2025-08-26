@@ -1,0 +1,28 @@
+{
+  "total_examples": 2000,
+  "language_distribution": {
+    "arabic": 999,
+    "english": 1001
+  },
+  "type_distribution": {
+    "correct": 1005,
+    "incorrect": 995
+  },
+  "generation_config": {
+    "target_size": 2000,
+    "models": [
+      "gemini-2.5-pro",
+      "gemini-2.5-flash",
+      "gemini-2.5-flash-lite"
+    ],
+    "max_tokens_per_request": 250000,
+    "safety_margin": 0.96,
+    "per_chunk_output_tokens": 512,
+    "paraphrase_temp": 0.2
+  },
+  "splits": {
+    "train": 1600,
+    "val": 200,
+    "test": 200
+  }
+}
